@@ -1,17 +1,20 @@
-codeblocks-theme
-================
+#codeblocks-theme
+Tutorial to installing codeblocks **themes** in Linux.
 
-install
-================
+##web link for installations tutorial 
+link => [codeblocks-Syntax-shighlightin](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes)
 
-http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes
+##Manual install
+* Download **colour_themes.conf** from this page. [link](https://github.com/mlibre/codeblocks_theme/blob/master/colour_themes.conf)  
+* Run <code>**cb_share_config**</code> in command line.
+~~~bash
+    cb_share_config
+~~~
+* Select **colour_themes.conf** for source file and select/check all config file.  
+* Select **/home/username/.config/codeblocks/default.conf** as destination file.  
+* Click on **transfer**.
+* Click **save**.
+* Finish.  
 
-or
-================
-
-open cb share config that installed with codeblocks;<br>
-select colour_themes.conf for source file and select all config file;<br>
-select default as destinition file;<br>
-click on transfer;<br>
-click save;<br>
-use themes.
+s
+Have a good life

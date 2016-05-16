@@ -1,10 +1,14 @@
-#codeblocks-theme
-Tutorial to installing codeblocks **themes** in Linux.
+#codeblocks theme
+Simple tutorial about installing codeblocks **themes** in Linux.
 
-##web link for installation's tutorial 
+##Table Of contents
+* Offical Installation's Tutorial.
+* Manual Installation's Tutorial.
+
+##Offical Installation's Tutorial
 [codeblocks-syntax-highlightin](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes)
 
-##Manual install
+##Manual Installation's Tutorial
 * Download **colour_themes.conf** from this page. [link](https://github.com/mlibre/codeblocks_theme/blob/master/colour_themes.conf)  
 * Run <code>**cb_share_config**</code> in command line.
 ~~~bash

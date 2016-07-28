@@ -24,9 +24,10 @@ Simple tutorial about installing codeblocks **themes** in Linux.
 
 ---
 ## License
-**colour_themes.conf** file created by copying theme's texts from [wiki.codeblocks.org/...](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes).
+**colour_themes.conf** file created by copying theme's texts from [wiki.codeblocks.org/...](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes).  
+Other things has no license! You may consider this as Public Domain, CC0 or unlicense. But I use some material that has their own licenses, you can see the license file for more details.
 
 ---
-### Donate Bitcoin
+## Donate Bitcoin
 My **Bitcoin Wallet** Address: `1AHL9xkqMwVmp5uZoMy4PbRHJ4wMX1pqdy`
 
